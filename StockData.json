@@ -1,0 +1,74 @@
+{
+    [
+        {
+            "ticker": "AMRX",
+            "boughtPrice": "0.00",
+            "numberOfShares": "1"
+        },
+        {
+            "ticker": "UBER",
+            "boughtPrice": "33.12",
+            "numberOfShares": "6"
+        },
+        {
+            "ticker": "STM",
+            "boughtPrice": "26.56",
+            "numberOfShares": "2"
+        },
+        {
+            "ticker": "AMD",
+            "boughtPrice": "51.35",
+            "numberOfShares": "1"
+        },
+        {
+            "ticker": "WORK",
+            "boughtPrice": "24.45",
+            "numberOfShares": "2"
+        },
+        {
+            "ticker": "APTO",
+            "boughtPrice": "8.39",
+            "numberOfShares": "10"
+        },
+        {
+            "ticker": "XAIR",
+            "boughtPrice": "8.30",
+            "numberOfShares": "20"
+        },
+        {
+            "ticker": "SAVE",
+            "boughtPrice": "11.34",
+            "numberOfShares": "15"
+        },
+        {
+            "ticker": "DAL",
+            "boughtPrice": "21.92",
+            "numberOfShares": "8"
+        },
+        {
+            "ticker": "AYTU",
+            "boughtPrice": "1.58",
+            "numberOfShares": "8"
+        },
+        {
+            "ticker": "SLB",
+            "boughtPrice": "16.85",
+            "numberOfShares": "16.85"
+        },
+        {
+            "ticker": "UAVS",
+            "boughtPrice": "1.28",
+            "numberOfShares": "20"
+        },
+        {
+            "ticker": "DXC",
+            "boughtPrice": "15.22",
+            "numberOfShares": "2"
+        },
+        {
+            "ticker": "SEAC",
+            "boughtPrice": "2.53",
+            "numberOfShares": "5"
+        }
+    ]
+}
